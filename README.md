@@ -9,8 +9,6 @@ Note: The guidelines are themselves open source and open for contributions, so i
 
 We prefer to have discussions around working examples, so if you can, please do the former. Each commit needs examples of good and bad usage to be accepted, but we’ll happily work with you to get your pull request ready to be merged.
 
-## Table of Contents
-
 ## General guideline
 
 ### Provide meaningful alternative text for your images
@@ -227,6 +225,8 @@ Avoid writing your own CSS to do what these helper classes do. This will ensure 
 This is used for when you want to hide the text off screen but display an image as a replacement.
 
 **Example:**
+![Search button](stubbornella.github.com/oocss-accessibility-guidelines/img/searchButton.png)
+
 You want to hide the text “search” and only display a search icon which is applied as a background image to the button
 
 ```
@@ -253,6 +253,8 @@ You have a toggle that shows and hides a container when you click on the trigger
 Hide only visually, but have it available for screenreaders. This will be one of the most common ones to use. 
 
 **Example:**
+![Search button](stubbornella.github.com/oocss-accessibility-guidelines/img/serachBar.png)
+
 You want to hide the a form field label off screen. 
 Note: the grey text in the search field is just placeholder text, different from a label.
 
