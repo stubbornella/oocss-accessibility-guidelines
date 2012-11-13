@@ -273,3 +273,8 @@ You have a skip link that’s hidden off screen but appears on the screen when k
 ```
 <a href=”#main” class=”hideVisually focusable”>Skip to content</a>
 ```
+
+## Accessibility guideline references:
+[WebAIM](http://webaim.org/intro/)
+
+[HTML5 Doctor](http://html5doctor.com/nav-element/)
