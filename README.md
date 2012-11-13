@@ -253,7 +253,7 @@ You have a toggle that shows and hides a container when you click on the trigger
 Hide only visually, but have it available for screenreaders. This will be one of the most common ones to use. 
 
 **Example:**
-![Search button](stubbornella.github.com/oocss-accessibility-guidelines/img/serachBar.png)
+![Search button](stubbornella.github.com/oocss-accessibility-guidelines/img/searchBar.png)
 
 You want to hide the a form field label off screen. 
 Note: the grey text in the search field is just placeholder text, different from a label.
