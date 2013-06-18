@@ -1,6 +1,6 @@
 # OOCSS Accessibility Guideline
 
-### Accessibility is an important aspect of web development. This guideline outlines the ways in which we are striving to make the OOCSS open source project accessible. All contributions will be checked against these guidelines.
+**Accessibility is an important aspect of web development. This guideline outlines the ways in which we are striving to make the OOCSS open source project accessible. All contributions will be checked against these guidelines.**
 
 Note: The guidelines are themselves open source and open for contributions, so if there is something you disagree with, there are steps you can take to remedy it: 
 
